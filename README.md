@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="images\EcoSorter.png"  width="500"></img>
+  <img src="https://cdn.discordapp.com/attachments/1094915099732488297/1119244757605023777/image.png">
 <br>
 MACHINE LEARNING 
 </h1>
