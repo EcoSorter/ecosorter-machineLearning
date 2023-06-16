@@ -12,7 +12,7 @@ MACHINE LEARNING
 ### Our Team
 
 * (ML) M151DSX1837 – Aloysius Darin Ario – Universitas Brawijaya 
-* (ML) M312DKX4604 – M.Farhan Zachary – Indonesia Defense University 
+* (ML) M312DKX4604 – M.Farhan Zachary – Universitas Pertahanan Republik Indonesia 
 * (ML) M013DSY2108 – Wintang Dayinta Wiyanto – Institut Pertanian Bogor 
 * (CC) C181DSX0964 – Muhammad Haddad – Universitas Indonesia 
 * (CC) C181DSX1965– Andhika Rifki Alfariz – Universitas Indonesia
